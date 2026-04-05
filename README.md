@@ -17,7 +17,7 @@ This project is a Finance Dashboard Backend API built with Node.js, Express, and
    ```
 
 2. **Environment Variables:**
-   A `.env` file is already created in the root directory for local testing. It contains:
+   //For Local System
    ```env
    PORT=5000
    MONGODB_URI=mongodb://localhost:27017/finance_dashboard
